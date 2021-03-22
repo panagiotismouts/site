@@ -20,5 +20,6 @@ slides:
   - microsoft-bob
   - ical
   - atm-affective
+  - ipod-4
 ---
 
