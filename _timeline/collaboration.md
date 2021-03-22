@@ -16,5 +16,6 @@ events:
   - mediaspace
   - github-contributions
   - kickstarter-pebble
+  - screen-projector
 ---
 
