@@ -6,9 +6,10 @@ caption: "Ο Διαδραστικός Πίνακας ξεκίνησε να χρ�
 categories:
   - Μελέτη Περίπτωσης
   - Εργαλεία
+  - Εκπαίδευση
 tags:
-  - technology
   - education
+  - technology
 ---
 
-{% include extras/cs-screen-projector-edu.md %}
+{% include extras/cs-gis.md %}
