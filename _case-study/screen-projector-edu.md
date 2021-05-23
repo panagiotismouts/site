@@ -12,4 +12,4 @@ tags:
   - technology
 ---
 
-{% include extras/cs-gis.md %}
+{% include extras/cs-screen-projector-edu.md %}
